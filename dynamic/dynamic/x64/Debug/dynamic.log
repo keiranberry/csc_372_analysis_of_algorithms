@@ -1,0 +1,3 @@
+﻿  dynamic.cpp
+C:\Users\101080740\Source\Repos\csc372\dynamic\dynamic\dynamic.cpp(118,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dynamic.vcxproj -> C:\Users\101080740\Source\Repos\csc372\dynamic\x64\Debug\dynamic.exe
