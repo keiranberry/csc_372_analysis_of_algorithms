@@ -1,0 +1,7 @@
+﻿  FFTImage.cpp
+C:\Users\101080740\Source\Repos\csc372\Project2\Project2\FFTImage.cpp(107,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101080740\Source\Repos\csc372\Project2\Project2\FFTImage.cpp(108,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101080740\Source\Repos\csc372\Project2\Project2\FFTImage.cpp(163,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101080740\Source\Repos\csc372\Project2\Project2\FFTImage.cpp(164,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\101080740\Source\Repos\csc372\Project2\Project2\FFTImage.cpp(225,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\101080740\Source\Repos\csc372\Project2\x64\Debug\Project2.exe
